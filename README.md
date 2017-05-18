@@ -43,7 +43,7 @@ The software has the following functionality:-
 			>>>Student Id
 		OUTPUT-
 			>>>Confirmation of deleting with student details
-# 3.IINPUTSSUE BOOK
+# 3.ISSUE BOOK
 	INPUT-
 		>>>Student Id
 		>>>Book Id
