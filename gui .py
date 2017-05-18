@@ -321,8 +321,8 @@ def bookreturns():
     if ans=="yes":
         copy("books_studentsissued.txt","ex1.txt")
         tkinter.messagebox.showinfo("Remove Book","Book returned sucessfully")
-        mail(j.split()[3],j)
-        print("mail sent")
+        #mail(j.split()[3],j)
+        #print("mail sent")
         returnbook()
     #print("book removed sucessfully")
 def returnbook():
